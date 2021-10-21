@@ -1,4 +1,4 @@
-### "YourPocketDoctor"
+### "The Doctor"
 
 <!--
 **theFauch/theFauch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-CTO and lead developer of Team Civitas and the [Pocket Doge token](https://pocketdogetoken.com) on Binance Smart Chain
+CTO and lead developer of Team Pocket LLC and the [Pocket Token](https://pocketdogetoken.com) on Binance Smart Chain.
